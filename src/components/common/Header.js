@@ -26,8 +26,7 @@ const styles = StyleSheet.create({
         shadowOpacity:0.2,
         elevation:2,
         position: 'relative',
-        fontSize: 18,
-        fontWeight: '600',
+        
 
     }
 })
